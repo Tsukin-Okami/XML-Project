@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+    <date>
+        <year>2005</year>
+        <month>6</month>
+        <day>21</day>
+    </date>
+    <title>Welcome!</title>
+    <subtitle>A note</subtitle>
+    <body>
+        <div>
+            A paragraph from a note displaying some things.
+        </div>
+        <div>
+            Another paragraph displaying the endings of a note.
+        </div>
+    </body>
+</note>
